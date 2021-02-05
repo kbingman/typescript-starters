@@ -11,9 +11,9 @@
 /**
  * 2️⃣ What are generics?
  *
- * Emoji definition: 🤷‍♂️
- *
  * Basic definition: "Placeholders" for types or "function arguments" for types.
+ *
+ * Emoji definition: 🤷‍♂️
  */
 
 /**
