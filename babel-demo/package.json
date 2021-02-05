@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "babel src --extensions '.ts,.tsx' --ignore '**/*.test.ts' -d build",
     "test": "jest"
-  },
+  },  
   "keywords": [],
   "author": "",
   "license": "MIT",
